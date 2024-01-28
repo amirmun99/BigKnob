@@ -19,7 +19,7 @@ You will need the following hardware components:
 - **XIAO RP2040**: A powerful microcontroller from Seeed Studio.
 - **EC11 Rotary Encoder**: For volume control input.
 - **OLED Display**: Specifically, an SSD1306 OLED display compatible with the Adafruit SSD1306 library.
-- **3D Printed Case**: To house the components neatly. Designs can be found in the repository or on Printables. The Case requires 4 6x3mm round magnets.
+- **3D Printed Case**: To house the components neatly. Designs can be found in the repository or on [Printables](https://www.printables.com/model/742270-the-big-knob-physical-volume-controller). The Case requires 4 6x3mm round magnets.
 
 ## Software 
 
