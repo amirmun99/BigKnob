@@ -1,5 +1,6 @@
 # BigKnob
 "Big Knob" is a Physical volume control knob with an OLED Screen. Utilizing a 3D Printed case and running on a SEEED XIAO RP2040. The screen is mostly cosmetic, displaying a matrix style animation during inactivity and providing realtime feedback about the input being sent to the PC.
+![IMG_3899](https://github.com/potatoworld/BigKnob/assets/37276609/f9142292-4a99-4ac1-9920-22d5f77ad2df)
 
 
 ---
