@@ -22,6 +22,24 @@ You will need the following hardware components:
 - **OLED Display**: Specifically, an SSD1306 OLED display compatible with the Adafruit SSD1306 library.
 - **3D Printed Case**: To house the components neatly. Designs can be found in the repository or on [Printables](https://www.printables.com/model/742270-the-big-knob-physical-volume-controller). The Case requires 4 6x3mm round magnets.
 
+## Wiring Pinout
+![image](https://github.com/potatoworld/BigKnob/assets/37276609/a3d796e1-68cc-4070-b7e1-0fbda812171c)
+![IMG_3903](https://github.com/potatoworld/BigKnob/assets/37276609/2f08b9ea-d2c6-4a95-a8be-1de91d62479a)
+
+SDA -> D4
+
+SCL -> D5
+
+VCC -> 3.3v
+
+Out A -> A2
+
+Out B -> A3
+
+Click -> A1
+
+All grounds to GRND
+
 ## Software 
 
 I recommend using **Thonny**, an Integrated Development Environment (IDE) that is beginner-friendly and supports CircuitPython. It provides a straightforward way to write, deploy, and debug your code on the XIAO RP2040.
